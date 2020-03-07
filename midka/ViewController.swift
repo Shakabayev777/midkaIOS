@@ -6,22 +6,6 @@
 //  Copyright © 2020 Асан Шакабаев. All rights reserved.
 //
 
-//import UIKit
-
-//class ViewController: UIViewController {
-//
-//    override func viewDidLoad() {
-//        super.viewDidLoad()
-//
-//    }
-//
-//    @IBAction func btn(_ sender: Any) {
-//        let secondViewController = self.storyboard?.instantiateViewController(withIdentifier: "SecondViewController") as! SecondViewController
-//        self.navigationController?.pushViewController(secondViewController, animated: true)
-//    }
-//
-//}
-
 import UIKit
 
 class ViewController: UIViewController {

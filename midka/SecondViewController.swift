@@ -8,20 +8,6 @@
 
 import UIKit
 
-//class SecondViewController: UIViewController {
-////    var color: UIColor;
-//    override func viewDidLoad() {
-//        super.viewDidLoad()
-//        // Do any additional setup after loading the view.
-//    }
-//    @IBAction func chooseColor(_ sender: UIButton) {
-//        print("123")
-//        let ViewController = self.storyboard?.instantiateViewController(withIdentifier: "ViewController") as! ViewController
-////        self.navigationController?.pushViewController(ViewController, animated: true)
-//        self.navigationController?.popViewController(animated: true)
-//    }
-//
-//}
 class SecondViewController: UIViewController {
     
     override func viewDidLoad() {
